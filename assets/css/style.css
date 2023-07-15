@@ -53,6 +53,12 @@ a:hover {
   color: #4e4e4e;
 }
 
+.button {
+  display: block; 
+  margin-top: 10px; 
+  margin-left: auto; 
+  margin-right: auto;
+}
 .box-shadow,
 .card-blog,
 .work-box,
